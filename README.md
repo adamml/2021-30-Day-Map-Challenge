@@ -5,7 +5,7 @@ Details of maps created for the November 2021 [30 Day Map Challenge](https://git
  
 A map of the elctric vehicle charging points in and around Galway City. Tweet availabile [here](https://twitter.com/AdamLeadbetter/status/1455941591772778498).
  
-- Data: OpenStreetMap, ESB
+- Data: OpenStreetMap, ESB ecars [Charge Point Map](https://esb.ie/ecars/charge-point-map)
 - Tool: [QGIS](https://www.qgis.org/en/site/)
  
 ## Day 2: Lines
@@ -19,13 +19,15 @@ All the roads on the island of Ireland. Tweet available [here](https://twitter.c
  
 UK Met Office Shipping Forecast sea areas. Tweet available [here](https://twitter.com/AdamLeadbetter/status/1455942637563822087).
  
-- Data: Esri AGOL, General Bethymetric Chart of the Ocean
+- Data: Esri AGOL [Feature Layer](https://www.arcgis.com/home/item.html?id=859436be603c4abb88382e49967ff180) by [Simon Kettle](https://www.arcgis.com/home/user.html?user=spk578), General Bethymetric Chart of the Ocean [Web Map Service](https://www.gebco.net/data_and_products/gebco_web_services/web_map_service/)
 - Tool: QGIS
  
 ## Day 4: Hexagons
  
 Mean sea surface temperature from the Argo drifiting float programme during October 2021. Tweet available [here](https://twitter.com/AdamLeadbetter/status/1456280744708411399).
- 
+
+![October 2021 global sea surface temperature from Argo drifiting float programme](img/4.jpg "October 2021 global sea surface temperature from Argo drifiting float programme")
+
 - Data: [Argo drifiting float programme](http://www.ifremer.fr/erddap/tabledap/ArgoFloats.html)
 - Tool: QGIS
  
@@ -33,13 +35,15 @@ Mean sea surface temperature from the Argo drifiting float programme during Octo
  
 Western States Endurance Run 100 mile course map. Tweet available [here](https://twitter.com/AdamLeadbetter/status/1456551004921647110).
  
-- Data: OpenStreetMap, Western States website
+- Data: OpenStreetMap, Western States website - [GPS Info page](https://www.wser.org/course/gps-info/)
 - Tool: QGIS
  
 ## Day 6: Red
  
 Fatal and injury road traffic collisions by county in Ireland. Tweet available [here](https://twitter.com/AdamLeadbetter/status/1456902855151992833).
- 
+
+![Road traffic collisions Ireland by county](img/6.jpg "Road traffic collisions Ireland by county")
+
 - Data: Road Safety Authority (Ireland) - [data.gov.ie](https://data.gov.ie/dataset/roa27-traffic-collisions-and-casualities?package_type=dataset)
 - Tool: QGIS
  
